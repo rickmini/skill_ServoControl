@@ -1,0 +1,22 @@
+{
+    "name": "ServoControl",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "rickmini",
+    "maintainers": [],
+    "desc": "Control 8 servo motors by voice command",
+    "aliceMinVersion": "1.0.0-a6",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en"
+        ],
+        "asrArbitraryCapture": true
+    }
+}

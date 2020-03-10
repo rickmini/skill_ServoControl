@@ -1,0 +1,7 @@
+{
+    "skill": "ServoControl",
+    "icon": "time",
+    "description": "Control 8 servo motors by voice command",
+    "slotTypes": [],
+    "intents": []
+}
